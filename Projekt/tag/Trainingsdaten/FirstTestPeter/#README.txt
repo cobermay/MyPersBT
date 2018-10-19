@@ -1,0 +1,1 @@
+Einfache bewegung: einmal nach oben und nach unten c0 aufwärtsbewegung, c1 abwertsbewegung
